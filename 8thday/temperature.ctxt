@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=temperature
+comment1.params=m\ n
+comment1.target=void\ getdata(double,\ double)
+comment2.params=
+comment2.target=void\ compute()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ main()
+numComments=5
